@@ -1,38 +1,49 @@
-# Hello, I'm [Your Name]! 👋
+<div align="left">
+  <a>
+    <img src="https://visitcount.itsvg.in/api?id=SaumayGoel&label=Profile%20Views&color=9&pretty=true" />
+  </a>
+</div>
 
-I'm a [Your Role/Title] based in [Your Location]. I'm passionate about [Your Interests], and I love to [Something You Enjoy Doing]. Currently, I'm working on [Current Job/Project].
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Saumay</h1></summary>
+  </ul>
+</div>
 
-## 🔧 Technologies & Tools
+![Snake animation](https://raw.githubusercontent.com/SaumayGoel/SaumayGoel/output/github-contribution-grid-snake-dark.svg)
+<hr>
 
-- Programming Languages: [Languages You're Proficient In]
-- Frameworks & Libraries: [Frameworks and Libraries You Use]
-- Tools: [Tools You Use for Development]
+<div id="user-content-toc" align="center">
+  <ul>
+    <summary>
+      <h2 style="display: inline-block">“To be irreplaceable one must always be different." - coco chanel</h2>
+    </summary>
+  </ul>
+</div>
 
-## 🌱 I'm Currently Learning
+- 🔭 I’m currently working on **a file-sharing web app built on HTML, CSS, JS, and Firebase**
 
-I'm currently focusing on improving my skills in [Skills You're Learning], and I'm always eager to explore new technologies and expand my knowledge.
+- 🌱 I’m currently learning **React, React Native, Firebase, C++**
+  
+- 🤝 I'm eager to collaborate on web development projects or participate in hackathons/events as a teammate.
 
-## 👨‍💻 Projects
+- 📫 Feel free to reach me out **saumaygoel123@Gmail.com**
 
-Here are some projects I'm proud of:
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That **I Know / Still Learning👨🏻‍💻**</h2></summary>
+  </ul>
+</div>
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=html,css,react,figma,js,firebase,git,github,cpp,python&perline=14" />
+  </a>
+</p>
 
-1. [Project Name 1](Link to Project 1) - Brief description of the project.
-2. [Project Name 2](Link to Project 2) - Brief description of the project.
-   <!-- Add more projects as needed -->
+<!--tech stack icons-->
 
-## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
-- Twitter: [@YourTwitterHandle](Link to Twitter)
-- Website: [Your Personal Website/Blog](Link to Website)
 
-Feel free to reach out if you want to chat about [Specific Topics or Interests] or collaborate on any projects!
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide=contribs,issues&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
-<!-- Additional badges, banners, or information you want to add -->
-
+<div>
+    https://holopin.me/saugit2004)](https://holopin.io/@saugit2004
+</div>
